@@ -1,7 +1,15 @@
+title: Wenbin He | Graduate Research Assistant at The Ohio State University
+author: Wenbin He
+email: hewenbin.495@gmail.com
+description: Personal website of Wenbin He
+url: https://hewenbin.github.io
+baseurl: ""
+
 sass:
   style: compressed
 
 plugins:
   - jekyll-feed
+  - jekyll-minifier
   - jekyll-seo-tag
   - jekyll-sitemap
