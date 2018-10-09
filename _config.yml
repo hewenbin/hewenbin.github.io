@@ -1,4 +1,4 @@
-title: Wenbin He | Graduate Research Assistant at The Ohio State University
+title: Wenbin He
 author: Wenbin He
 email: hewenbin.495@gmail.com
 description: Personal website of Wenbin He
@@ -13,3 +13,5 @@ plugins:
   - jekyll-minifier
   - jekyll-seo-tag
   - jekyll-sitemap
+
+google_analytics: UA-127130522-1
